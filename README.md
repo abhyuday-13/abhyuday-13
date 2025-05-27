@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhyuday-13
-- 👀 I’m interested in nothigng
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning something new
 - 😄 Pronouns:  YADAV
 
