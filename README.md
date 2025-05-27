@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @abhyuday-13
 - 👀 I’m interested in nothigng
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning something new
 - 😄 Pronouns:  YADAV
 
 <!---
