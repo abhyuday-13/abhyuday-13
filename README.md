@@ -1,26 +1,32 @@
-<h1 align="center">🌸 Abhyuday 〜こんにちは! 🌸</h1>
+<h1 align="center">👨‍💻 Abhyuday — Developer in Progress</h1>
 
-<p align="center">Developer • Learner • Anime Enjoyer</p>
-
----
-
-### 🍡 About Me
-- Learning C / C++ / JavaScript  
-- Dreaming, building, improving — one commit at a time  
-- Loves anime aesthetics & clean UIs  
+<p align="center">Building skills. Building projects. Building myself.</p>
 
 ---
 
-### 🌸 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,git,linux" />
+### 🚀 What I'm Working On
+- CS50  
+- C++ & OOP  
+- Web development fundamentals  
+- Algorithmic trading research  
+
+---
+
+### 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,linux,git,vscode" />
 </p>
 
 ---
 
-### 📈 My Progress
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhyuday-13&show_icons=true&theme=synthwave" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhyuday-13&show_icons=true&theme=tokyonight" height="150">
 </p>
 
-<p align="center">✨ Thanks for stopping by — senpai noticed you ✨</p>
+---
+
+### 💼 Goals for 2025
+- Sharpen DSA  
+- Build real-world projects  
+- Level-up developer skills  
