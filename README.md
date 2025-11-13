@@ -1,27 +1,49 @@
-<h1 align="center">🎮 Abhyuday — Player 1 Ready</h1>
+<h1 align="center">🖤 Abhyuday</h1>
 
-<p align="center">Coder by day, Gamer by night.</p>
-
----
-
-### 🕹️ Loadout
-- Languages: C, C++, JS  
-- Skills: Problem-solving, building projects, grinding XP  
+<p align="center">Developer • Student • Tech Explorer</p>
 
 ---
 
-### ⚡ Skill Tree
+## 🪶 About Me
+- Learning **C, C++, JavaScript** and core CS concepts  
+- Exploring **web development**, **Linux**, and **problem-solving**  
+- Interested in **markets**, **algorithms**, and building real projects  
+- Minimalist, clean UI lover — always improving my craft  
+
+---
+
+## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,git,linux,vscode" />
 </p>
 
 ---
 
-### 💾 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhyuday-13&show_icons=true&theme=radical" height="150">
-</p>
+## 📁 Projects
+
+### 🔹 **Banking System (C++)**
+A complete console-based banking system with file handling, authentication, receipts & animations.  
+**Tech:** C++ (OOP, File Handling)
 
 ---
 
-<p align="center">Press ★ to save progress</p>
+### 🔹 **Tic Tac Toe (C)**
+A simple and clean Tic Tac Toe game built using core C fundamentals.  
+**Tech:** C (Functions, Logic, Arrays)
+
+---
+
+### 🔹 **Portfolio Website (HTML/CSS/JS)**
+A minimal personal webpage — responsive, fast, and aesthetic.  
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+*(Want me to add more once you upload them? I can auto-update this section.)*
+
+---
+
+## 📫 Contact
+<a href="https://www.linkedin.com/in/abhyuday-yadav">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+</a>
