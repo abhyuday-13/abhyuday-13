@@ -1,32 +1,27 @@
-<h1 align="center">👨‍💻 Abhyuday — Developer in Progress</h1>
+<h1 align="center">🎮 Abhyuday — Player 1 Ready</h1>
 
-<p align="center">Building skills. Building projects. Building myself.</p>
-
----
-
-### 🚀 What I'm Working On
-- CS50  
-- C++ & OOP  
-- Web development fundamentals  
-- Algorithmic trading research  
+<p align="center">Coder by day, Gamer by night.</p>
 
 ---
 
-### 🧰 Tech Stack
+### 🕹️ Loadout
+- Languages: C, C++, JS  
+- Skills: Problem-solving, building projects, grinding XP  
+
+---
+
+### ⚡ Skill Tree
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,linux,git" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 💾 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhyuday-13&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhyuday-13&show_icons=true&theme=radical" height="150">
 </p>
 
 ---
 
-### 💼 Goals for 2025
-- Sharpen DSA  
-- Build real-world projects  
-- Level-up developer skills  
+<p align="center">Press ★ to save progress</p>
